@@ -1,26 +1,3 @@
-/*  
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
-
- <link
-      rel="stylesheet" 
-      href="https://fonts.googleapis.com/css?family=Lato"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Montserrat
-      
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-
-   not this one <link rel="stylesheet" 
-          href="">
-
-orginal extension/* 
-
-
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html {
   box-sizing: border-box;
@@ -1364,7 +1341,7 @@ a {
 .w3-red,
 .w3-hover-red:hover {
   color: #fff !important;
-  background: linear-gradient(45deg, red, black) !important;
+  background: linear-gradient(45deg, blue, purple) !important;
 }
 .w3-sand,
 .w3-hover-sand:hover {
@@ -1642,7 +1619,7 @@ a {
 .w3-hover-border-grey:hover,
 .w3-border-gray,
 .w3-hover-border-gray:hover {
-  border-color: #9e9e9e !important;
+  border-color: ;
 }
 .w3-border-light-grey,
 .w3-hover-border-light-grey:hover,
