@@ -1649,3 +1649,15 @@ a {
 .w3-hover-border-pale-blue:hover {
   border-color: #e7ffff !important;
 }
+
+.comp-logo {
+  width: 400px;
+  height: 400px;
+  border-radius: 25%;
+}
+
+.bostonsports {
+  border-radius: 20%;
+  padding: 20px 20px 0px 0px;
+  margin: auto;
+}

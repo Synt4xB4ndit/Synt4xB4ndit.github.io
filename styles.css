@@ -1672,3 +1672,10 @@ a {
 .w3-hover-border-pale-blue:hover {
   border-color: #e7ffff !important;
 }
+
+.beaver {
+  height: 400px;
+  width: 400px;
+  padding: 5px 5px 5px 5px;
+  border-radius: 25%;
+}
