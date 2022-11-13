@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background: linear-gradient(rgb(13, 90, 192), rgb(226, 17, 10));
 }
 *,
 *:before,
@@ -1115,7 +1116,7 @@ a {
   font-size: 15px !important;
 }
 .w3-large {
-  font-size: 18px !important;
+  font-size: 20px !important;
 }
 .w3-xlarge {
   font-size: 24px !important;
@@ -1340,7 +1341,7 @@ a {
 .w3-red,
 .w3-hover-red:hover {
   color: black !important;
-  background: linear-gradient(45deg, orange, black) !important;
+  background: linear-gradient(rgb(13, 90, 192), rgb(226, 17, 10));
 }
 .w3-sand,
 .w3-hover-sand:hover {
@@ -1655,4 +1656,28 @@ img {
 
 .glad {
   border-radius: 25%;
+}
+
+.containerone {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 5px;
+  row-gap: 5px;
+}
+
+img {
+  width: 32vw;
+}
+
+.imageone {
+  width: 55px;
+  height: 25px;
+  padding: 10px;
+  display: inline-grid;
+}
+
+.imagetwo {
+  width: 55px;
+  height: 55px;
+  padding: 10px;
 }
